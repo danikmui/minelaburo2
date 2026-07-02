@@ -239,6 +239,84 @@ ejemplos = [
     ("Servicios generales y aseo industrial en faena", ["aseo_servicios"]),
     ("Auxiliar de aseo y limpieza de campamento", ["aseo_servicios"]),
     ("Mantención de áreas comunes y servicios generales", ["aseo_servicios"]),
+
+    # ==================================================================
+    # REFUERZO: más ejemplos y vocabulario propio para las categorías flacas
+    # ==================================================================
+
+    # --- geología (reforzada, vocabulario propio) ---
+    ("Graduado de geología con experiencia en reconocimiento de suelos y minerales", ["geologia"]),
+    ("Geólogo dedicado al reconocimiento de minerales y tipos de roca", ["geologia"]),
+    ("Reconocimiento de suelos, rocas y minerales en terreno", ["geologia"]),
+    ("Cartografía geológica y estimación de recursos de un yacimiento", ["geologia"]),
+    ("Geólogo junior en campañas de exploración y sondajes", ["geologia"]),
+
+    # --- laboratorio (afinada: trabajo de laboratorio, NO solo 'minerales') ---
+    ("Ensayos de laboratorio por vía húmeda y absorción atómica", ["laboratorio"]),
+    ("Preparación de muestras, chancado fino y pulverizado en laboratorio", ["laboratorio"]),
+    ("Titulación y análisis químico cuantitativo en laboratorio", ["laboratorio"]),
+    ("Laborante a cargo de granulometría y control de calidad de ensayos", ["laboratorio"]),
+
+    # --- topografía ---
+    ("Replanteo y monitoreo de deformaciones con estación total", ["topografia"]),
+    ("Topógrafo de obra en proyectos de construcción", ["topografia"]),
+
+    # --- perforación y tronadura ---
+    ("Ayudante de perforación y carguío de explosivos en banco", ["perforacion_tronadura"]),
+    ("Manejo de ANFO y detonadores para voladura", ["perforacion_tronadura"]),
+
+    # --- procesamiento de minerales / planta ---
+    ("Operador de espesadores y celdas de flotación", ["procesamiento_minerales"]),
+    ("Control de planta de chancado y correas transportadoras", ["procesamiento_minerales"]),
+
+    # --- metalurgia ---
+    ("Ingeniero de procesos en planta de lixiviación y electroobtención", ["metalurgia"]),
+    ("Control de recuperación metalúrgica y ley de concentrado", ["metalurgia"]),
+
+    # --- medio ambiente ---
+    ("Manejo de residuos peligrosos y planes de mitigación ambiental", ["medio_ambiente"]),
+    ("Monitoreo de aguas, suelos y calidad del aire en faena", ["medio_ambiente"]),
+
+    # --- instrumentación y control ---
+    ("Calibración de transmisores de presión, flujo y temperatura", ["instrumentacion_control"]),
+    ("Programación de PLC y lazos de control de procesos", ["instrumentacion_control"]),
+
+    # --- logística y bodega ---
+    ("Control de stock, kardex y recepción de mercadería en bodega", ["logistica_bodega"]),
+    ("Despacho de insumos y coordinación de camiones de suministro", ["logistica_bodega"]),
+
+    # --- salud ocupacional / rescate ---
+    ("Técnico paramédico en policlínico de faena", ["salud_ocupacional"]),
+    ("Brigadista de rescate y control de emergencias en mina", ["salud_ocupacional"]),
+
+    # --- calidad (QA/QC) ---
+    ("Inspector QA QC de terreno y liberación de protocolos", ["calidad"]),
+    ("Control dimensional y trazabilidad de materiales", ["calidad"]),
+
+    # --- operador de grúa / maniobras ---
+    ("Operador de grúa telescópica en montaje industrial", ["operador_grua"]),
+    ("Señalero y rigger certificado para izajes críticos", ["operador_grua"]),
+
+    # --- alimentación / casino ---
+    ("Cocinero de casino en campamento minero", ["alimentacion_casino"]),
+    ("Manipulación de alimentos y aseo de cocina en faena", ["alimentacion_casino"]),
+
+    # --- aseo / servicios generales ---
+    ("Nochero y servicios de aseo en dependencias de faena", ["aseo_servicios"]),
+
+    # --- administrativas / negocio (refuerzo) ---
+    ("Administración de contratos y control de subcontratos", ["administracion_contratos"]),
+    ("Facilitador de capacitaciones y desarrollo de competencias", ["capacitacion_desarrollo"]),
+    ("Analista de control de gestión e indicadores de desempeño", ["control_gestion"]),
+    ("Consultor de negocios y asesoría estratégica a empresas", ["asesoria_consultoria"]),
+    ("Ejecutivo de cobranza y recuperación de cartera morosa", ["cobranza"]),
+    ("Jefe de tienda en retail y reposición de mercadería", ["retail"]),
+    ("Recepcionista y atención al huésped en hotel", ["hoteleria"]),
+    ("Ejecutivo de ventas y prospección de clientes", ["area_comercial_ventas"]),
+    ("Encargado de importaciones y comercio exterior", ["comercio_exterior"]),
+    ("Coordinador de planificación y programación de proyectos", ["planificacion_proyectos"]),
+    ("Ingeniero civil industrial en optimización de procesos", ["ingenieria"]),
+    ("Supervisor a cargo de la asistencia y desempeño del personal", ["supervision_personal"]),
 ]
 
 
